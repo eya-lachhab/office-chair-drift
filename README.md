@@ -1,4 +1,4 @@
-# 🎮 Office Chaos – Clean Edition
+# 🎮 Office Chaos
 
 A fast-paced 2D arcade game built with Python and Pygame.
 
@@ -33,7 +33,7 @@ You control a rolling office chair trying to survive the chaos:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/office-chaos.git
+git clone https://github.com/eya-lachhab/office-chaos.git
 cd office-chaos
 ```
 
