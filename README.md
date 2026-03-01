@@ -33,7 +33,7 @@ You control a rolling office chair trying to survive the chaos:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/eya-lachhab/office-chaos.git
+git clone https://github.com/eya-lachhab/office-chair-drift.git
 cd office-chaos
 ```
 
