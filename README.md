@@ -1,4 +1,4 @@
-# 🎮 Office Chaos
+# 🎮 Office Chair Drift
 
 A fast-paced 2D arcade game built with Python and Pygame.
 
